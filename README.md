@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Ray 👋
 
-<!--
-**ai-rayven/ai-rayven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Tech Lead at CallMiner, where I build production multi-agent systems, LLM-based classification, and infrastructure.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 **[codeyak](https://github.com/ai-rayven/codeyak)** — A code review agent that guards your codebase with strict guidelines. Built in Python, used in production.
+- 📱 **[WorxAI]** — An AI assistant for mechanics. Co-founder, built with React Native (Expo) + C# API on Azure. Currently in beta.
+- 🦀 Learning Rust for fun.
+
+## Find me
+
+- [LinkedIn](https://linkedin.com/in/ray-martinez1)
