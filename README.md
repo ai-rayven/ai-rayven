@@ -1,12 +1,19 @@
 # Hey, I'm Ray 👋
 
-AI Tech Lead at CallMiner, where I build production multi-agent systems, LLM-based classification, and infrastructure.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-## What I'm working on
+AI Tech Lead at [CallMiner](https://callminer.com) · Co-founder of [App Name](https://yourapp.com)
 
-- 🤖 **[codeyak](https://github.com/ai-rayven/codeyak)** — A code review agent that guards your codebase with strict guidelines. Built in Python, used in production.
-- 📱 **[WorxAI]** — An AI assistant for mechanics. Co-founder, built with React Native (Expo) + C# API on Azure. Currently in beta.
-- 🦀 Learning Rust for fun.
+## Projects
+
+- 🤖 [codeyak](https://github.com/ai-rayven/codeyak): Production code review agent that guards your codebase with strict guidelines. Used in enterprise.
+- 📱 [WorxAI](stealth): Building the first AI assistant for mechanics. React Native (Expo) + C# on Azure. Currently in beta.
 
 ## Find me
 
