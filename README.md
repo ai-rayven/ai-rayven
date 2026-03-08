@@ -8,12 +8,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-AI Tech Lead at [CallMiner](https://callminer.com) · Co-founder of [App Name](https://yourapp.com)
+AI Tech Lead at [CallMiner](https://callminer.com) · Co-founder of Liftworx Labs
 
 ## Projects
 
 - 🤖 [codeyak](https://github.com/ai-rayven/codeyak): Production code review agent that guards your codebase with strict guidelines. Used in enterprise.
-- 📱 [WorxAI](stealth): Building the first AI assistant for mechanics. React Native (Expo) + C# on Azure. Currently in beta.
+- 📱 [Liftworx Labs](stealth): Building the first AI assistant for mechanics. React Native (Expo) + C# on Azure. Currently in beta.
 
 ## Find me
 
