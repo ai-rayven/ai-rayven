@@ -15,4 +15,5 @@ AI Tech Lead at [CallMiner](https://callminer.com) · Co-founder of Liftworx Lab
 [Worx](stealth): Building the first AI assistant for mechanics. React Native (Expo) + C# on Azure. Currently in beta.
 
 ## Find me
+- [Personal Blog](raymartinez.dev)
 - [LinkedIn](https://linkedin.com/in/ray-martinez1)
