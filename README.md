@@ -1,5 +1,4 @@
 # Hey, I'm Ray 👋
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -11,10 +10,9 @@
 AI Tech Lead at [CallMiner](https://callminer.com) · Co-founder of Liftworx Labs
 
 ## Projects
+[Codeyak](https://github.com/ai-rayven/codeyak): Production code review agent that guards your codebase with strict guidelines. Used in enterprise.
 
-- 🤖 [codeyak](https://github.com/ai-rayven/codeyak): Production code review agent that guards your codebase with strict guidelines. Used in enterprise.
-- 📱 [Liftworx Labs](stealth): Building the first AI assistant for mechanics. React Native (Expo) + C# on Azure. Currently in beta.
+[Worx](stealth): Building the first AI assistant for mechanics. React Native (Expo) + C# on Azure. Currently in beta.
 
 ## Find me
-
 - [LinkedIn](https://linkedin.com/in/ray-martinez1)
